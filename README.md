@@ -7,7 +7,7 @@ Este script de PowerShell mueve el cursor del mouse en un bucle infinito hasta q
 ### 1. Descargate el archivo move_cursor.ps1
 Para descargar el archivo, hace clic en el mismo, vas a entrar al archivo y arriba a la derecha en los 3 puntitos ( ... ) dale clic y seleccioná descargar.
 ### 2. Dirigite a donde lo tenes ubicado, por ejemplo, al escritorio.
-### 3. Manteniendo la tecla shift presionada hace clic derecho y seleccioná la opción "Abrir la ventana de PowerShell aquí".
+### 3. Manteniendo la tecla shift presionada, hace clic derecho en el fondo (no sobre el archivo) y seleccioná la opción "Abrir la ventana de PowerShell aquí".
 ### 4. Ejecutá el siguiente comando:
 `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process`
 Luego presionar la tecla "S" y darle enter:
